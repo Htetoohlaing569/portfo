@@ -52,7 +52,7 @@ export function Form() {
   return (
     <Container>
       <h2>Get in touch using the form below</h2>
-      <form onSubmit={handleSubmit}>
+      <form method="POST" data-netlify="true">
         <input
           placeholder="Email"
           id="email"
@@ -78,15 +78,15 @@ export function Form() {
           field="message"
           errors={state.errors}
         />
-        <ReCAPTCHA
+        {/* <ReCAPTCHA
           sitekey="6LcAu-IdAAAAAJOTI5E_eRltZNQCvukIl2-f1glQ"
           onChange={(e) => {
             setIsHuman(true)
           }}
-        ></ReCAPTCHA>
+        ></ReCAPTCHA> */}
         <button
           type="submit"
-          disabled={state.submitting || !validEmail || !message || !isHuman}
+          disabled={state.submitting || !validEmail || !message}
         >
           Send
         </button>

@@ -51,7 +51,7 @@ export function Portfolio(){
             </div>
             </header>
             <div className="body">
-              <h3>Github Searcher</h3>
+              <h3>No name</h3>
               <p>Uma versão mais agradável para ver seu perfil do GitHub, inclui visualização de dados , repositórios, compartilhamento entre outros.
               </p>
             </div>
