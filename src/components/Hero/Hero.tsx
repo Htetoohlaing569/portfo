@@ -19,7 +19,7 @@ export function Hero(){
           <h3>Cybersecurity Specialist</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">A team player who can also work independently in English advanced level and Burmese native speaker. Experience project organizing and management with different clients from different areas.Adaptable and collaborative employee during the project. Self-esteem and self-motivated person who possesses excellent communication skills, negotiation skills, team-oriented personality, customer and business acumen. Embraces teamwork and team leader. Highly motivated to work in challenging environments.</p>
+          <p className="small-resume">People person and independent player who have worked in the BPO Service for more than 2 years. Currently working as a business administrative </p>
         </ScrollAnimation>
 
           <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
