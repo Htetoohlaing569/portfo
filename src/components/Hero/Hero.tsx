@@ -16,7 +16,7 @@ export function Hero(){
           <h2>Htet Oo Hlaing 🖤</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Business Analyst</h3>
+          <h3>Business administrative and Business analyst </h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">People person and independent player who have worked in the BPO Service for more than 2 years. Currently working as a business administrative </p>
