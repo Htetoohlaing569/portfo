@@ -19,7 +19,8 @@ export function Hero(){
           <h3>Business administrative and Business analyst </h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">People person and independent player who have worked in the BPO Service for more than 2 years. Currently working as a business administrative </p>
+          <p className="small-resume">A team player who can also work independently.Experience project orgnization and project management. Self- esteem and self-motivated person. Self-studying on HTML, CSS and Java Script currently.
+            </p>
         </ScrollAnimation>
 
           <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
